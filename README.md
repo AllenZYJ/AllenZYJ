@@ -12,4 +12,4 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=AllenZYJ&show_icons=true&theme=dark&count_private=true)
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AllenZYJ&repo=Edge-Computing-Engine)](https://github.com/AllenZYJ/Edge-Computing-Engine)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AllenZYJ&repo=Edge-Computing-Engine)](https://github.com/AllenZYJ/Edge-Computing-Engine)

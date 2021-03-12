@@ -5,12 +5,9 @@
 - <https://github.com/AllenZYJ>
 - <http://likedge.top>
 - <zk@likedge.top>
+- 🔭 I’m currently working on CV/NAS...
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AllenZYJ&theme=flag-india&layout=compact)
-
-- 🔭 I’m currently working on Computer visual/Neural network structure search(NAS)...
-
-
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AllenZYJ&repo=Edge-Computing-Engine&theme=flag-india)](https://github.com/AllenZYJ/Edge-Computing-Engine)
 

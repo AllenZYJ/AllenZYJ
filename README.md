@@ -1,11 +1,11 @@
 ### Hi there 👋 I am Edge
+- 🔭 I’m currently working on CV/NAS...
 
 ### Find me
 
 - <https://github.com/AllenZYJ>
 - <http://likedge.top>
 - <zk@likedge.top>
-- 🔭 I’m currently working on CV/NAS...
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AllenZYJ&theme=flag-india&layout=compact)
 

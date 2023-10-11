@@ -12,6 +12,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AllenZYJ&repo=Edge-Computing-Engine&theme=flag-india)](https://github.com/AllenZYJ/Edge-Computing-Engine)
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=AllenZYJ&show_icons=true&theme=flag-india&count_private=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=AllenZYJ&show_icons=true&theme=transparent&count_private=true)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+

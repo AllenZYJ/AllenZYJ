@@ -14,3 +14,4 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=AllenZYJ&show_icons=true&theme=flag-india&count_private=true)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
